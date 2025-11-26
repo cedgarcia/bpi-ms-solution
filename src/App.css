@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+button,
+select {
+  cursor: pointer;
+}
+
+input,
+select {
+  outline: none;
+}
